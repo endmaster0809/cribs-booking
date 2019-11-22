@@ -1,5 +1,7 @@
 # cribs-booking
 
+![](booking.gif)
+
 ## Project setup
 ```
 yarn install
